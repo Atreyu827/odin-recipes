@@ -1,0 +1,24 @@
+div.text {
+    max-width: 500px;
+    margin: auto;
+    background-color: azure;
+    font-size: 1.1875rem;
+    font-family: "Charter", "Charter-roboto", "Charter-local", Georgia, Times, serif;
+    line-height: 1.6;
+    padding: 10px;
+
+}
+
+div.img {
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+}
